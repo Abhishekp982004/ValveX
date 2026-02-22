@@ -20,7 +20,7 @@ Thumbs.db
 .vscode/
 *.code-workspace
 
-# PlatformIO (if ever used)
+# PlatformIO 
 .pio/
 .pioenvs/
 .piolibdeps/
