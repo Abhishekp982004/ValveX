@@ -63,8 +63,3 @@ tmp/
 temp/
 .cache/
 
-# =========================
-# Screenshots (optional)
-# Uncomment if you don't want UI images tracked
-# =========================
-# frontend/dashboard/screenshots/
