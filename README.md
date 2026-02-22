@@ -142,9 +142,11 @@ The ESP32 sketch defines pin mappings and control logic (pump + valve). Review a
   - logs (Serial output),
   - what you expected vs what happened.
 
-## Who maintains and contributes
-
-**Maintainer:** @Abhishekp982004
+## Team
+- [@GVishwasReddy](https://github.com/GVishwasReddy)
+- [@jalanths](https://github.com/jalanths)
+- [@Abhishekp982004](https://github.com/Abhishekp982004)
+- [@adyaagb](https://github.com/adyaagb)
 
 Contributions are welcome:
 - Bug fixes (connectivity, reconnection logic, stability)
