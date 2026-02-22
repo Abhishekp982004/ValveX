@@ -1,0 +1,70 @@
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Arduino / ESP32
+# =========================
+*.bin
+*.elf
+*.hex
+*.map
+*.csv
+*.tmp
+*.log
+
+# Arduino IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# PlatformIO (if ever used)
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# =========================
+# Node.js (Node-RED + Telegram bot)
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# Node-RED
+# =========================
+.flow.json.backup
+.flow_cred.json
+.flow_cred.json.backup
+.node-red/
+.settings.js
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+secrets.json
+config.json
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+temp/
+.cache/
+
+# =========================
+# Screenshots (optional)
+# Uncomment if you don't want UI images tracked
+# =========================
+# frontend/dashboard/screenshots/
