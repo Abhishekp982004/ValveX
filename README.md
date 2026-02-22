@@ -6,6 +6,11 @@
 
 ValveX is an **IoT-based smart water monitoring and leak-prevention system** that measures water flow in real time, detects abnormal usage (e.g., continuous flow/leaks), and can **automatically control a valve and pump**. It’s designed to keep safety/automation at the edge (ESP32) while enabling remote monitoring and manual override through an MQTT-connected UI/middleware.
 
+## 🏆 Achievement
+- 🥇 Winner – EmbedX 2.0 Hackathon
+- Organized by the Department of Electronics and Communication Engineering, PES University
+- Sponsored by Xylem
+
 ## What the project does
 
 - Reads flow pulses from a water flow sensor and computes **flow rate** on an **ESP32**.
