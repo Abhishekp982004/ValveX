@@ -30,7 +30,6 @@ Water leakage and continuous unnoticed flow waste water and can damage infrastru
 
 ## Repository structure
 
-> Note: This is based on the current repository layout observed (`firmware/`, `middleware/`, `docs/`). If you add more modules (dashboard screenshots, schematics, etc.), update this tree.
 
 ```text
 .
